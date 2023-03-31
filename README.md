@@ -4,8 +4,9 @@
 
 <p align="center">
   <h4 align="center">Programming language</h4>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,typescript&theme=light"/>
 </p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=java,javascript,python,typescript&theme=light"/></p>
 <br>
 <p align="center">
   <h4 align="center">Frameworks</h4>
