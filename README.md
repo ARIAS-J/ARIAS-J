@@ -1,6 +1,6 @@
 <h2 align="center">Joel Arias</h2>
 <br>
-<p>FullStack Developer</p>
+<h3 align="center">FullStack Developer</h3>
 
 
 ## Programming language
