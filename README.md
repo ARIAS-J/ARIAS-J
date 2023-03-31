@@ -1,5 +1,6 @@
-<h2 align="center" color="#23290f">Joel Arias</h2>
-<h2 align="center">FullStack Developer</h2>
+<h2 align="center" color="#23290f">Joel Arias
+FullStack Developer
+</h2>
 
 
 <div>
