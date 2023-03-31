@@ -9,8 +9,9 @@
 <br>
 <p align="center">
   <h4 align="center">Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=django,angular,spring,react,nextjs&theme=light"/>
 </p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=django,angular,spring,react,nextjs&theme=light"/></p>
 
 
 
