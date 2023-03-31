@@ -4,7 +4,7 @@
 
 <p>
   <h4 align="center">Programming language</h4>
-  [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,typescript&theme=dark)](https://skillicons.dev)
+  <img align="center" src="https://skillicons.dev/icons?i=java,javascript,python,typescript&theme=dark"/>
 </p>
 
 <p>
