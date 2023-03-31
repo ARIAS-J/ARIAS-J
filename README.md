@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#23290f;">Joel Arias
+<h2 align="center" style="color: #adf321;">Joel Arias
 FullStack Developer
 </h2>
 
