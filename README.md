@@ -6,11 +6,10 @@
   <h4 align="center">Programming language</h4>
   <img align="center" src="https://skillicons.dev/icons?i=java,javascript,python,typescript&theme=dark"/>
 </p>
-
+<br>
 <p align="center">
   <h4 align="center">Frameworks</h4>
   <img align="center" src="https://skillicons.dev/icons?i=django,angular,spring,react,nextjs&theme=dark"/>
- 
 </p>
 
 
