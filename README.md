@@ -1,4 +1,4 @@
-<h1 align="center">Joel Arias</h2>
+<h1 align="center" style="font-size: 75px;">Joel Arias</h2>
 <br>
 <p align="center">I am a Fullstack Developer with experience in creating complete web applications both from the server side and the client side, capable of designing and developing efficient and scalable solutions.</p>
 
