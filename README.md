@@ -16,5 +16,9 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=django,angular,spring,react,nextjs&theme=light"/></p>
 
+<p align="center">
+  <h4 align="center">Platforms and Tools</h4>
+</p>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=aws&theme=light"/></p>
 
