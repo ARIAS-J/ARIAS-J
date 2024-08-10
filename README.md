@@ -14,7 +14,13 @@
   <h4 align="center">Frameworks</h4>
 </p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=django,angular,spring,react,nextjs&theme=light"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,django,angular,spring,react,nextjs&theme=light"/></p>
+
+<p align="center">
+  <h4 align="center">Database</h4>
+</p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,dynamodb&theme=light"/></p>
 
 <p align="center">
   <h4 align="center">Platforms and Tools</h4>
